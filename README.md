@@ -8,7 +8,7 @@
 
 - Check my portfolio [https://shubha-404.github.io/Shubha_Portfolio/](https://shubha-404.github.io/Shubha_Portfolio/)
 
-- Someone : You are not able to do anything without Electricity ! -> **Me: Don't worry, I'm an Electrical Engineer too.**
+- Someone : You are not able to do anything without Electricity ! <br> -> **Me: Don't worry, I'm an Electrical Engineer too.**
 
 - Programming is 10% writing code and 90% figuring out why it's not working.
 
